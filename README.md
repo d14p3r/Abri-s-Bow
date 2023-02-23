@@ -1,4 +1,4 @@
-# Abri-s-Bow
+# Abri's Bow
 This program makes assignable keys that are useful in games but not usable.
 
 Copyright (C) 1989, 1991 Free Software Foundation, Inc.
